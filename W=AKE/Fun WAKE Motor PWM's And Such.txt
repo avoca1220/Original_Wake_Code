@@ -1,0 +1,15 @@
+2 Rear Right Drive Train Motors -- PWM 0, PWM 1
+
+2 Rear Left Drive Train Motors -- PWM 8, PWM 9
+
+Right Spinny Wheel In The Front-- PWM 2
+
+Left Spinny Wheel In The Front-- PWM 7
+
+Right Lifty Motor In The Back -- PWM 3
+
+Left Lifty Motor In The Back -- PWM 6
+
+Solenoid Control Bit, Grabber -- Ports 6, 7
+
+Front Wheel Pneumatic Bits -- Port 4, 5
